@@ -44,7 +44,7 @@ namespace ExampleMDI
                 }
             }
         }
-
+        //
         private void хаахToolStripMenuItem_Click(object sender, EventArgs e)
         {
             for (int i = 0; i < MdiChildren.Length; i++)
